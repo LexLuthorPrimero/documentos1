@@ -31,7 +31,7 @@ Este repositorio contiene **propuestas de diseño documental** del proyecto IER-
 
 ## Directorios
 
-- `IER_GATE_BACKUP/` — archivo documental crudo (inventario interno incluido). Los documentos conservan íntegros sus estados declarados; algunos son borradores internos preservados tal cual. No constituye una versión normativa distribuida ni modifica el estado de ninguno de sus contenidos.
+- `IER_GATE_BACKUP/` — retirado del repositorio público el 2026-11-15 junto con la purga completa del historial (commit raíz limpio, sin referencias internas). Copia privada intacta conservada fuera de este repositorio.
 - Archivos del raíz (este nivel): copias exactas de los tres documentos principales, publicadas el 2026-11-15.
 
 ## Contacto / preguntas de auditoría
